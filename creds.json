@@ -1,0 +1,9 @@
+{
+  "account"   : "SNOWFLAKELEARNING-LEARNER2",
+  "user"      : "ADMIN",
+  "password"  : "inserthere",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "COMPUTE_WH",
+  "database"  : "CITIBIKE",
+  "schema"    : "PUBLIC"
+}
